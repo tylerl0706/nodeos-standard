@@ -1,15 +1,15 @@
 {
-  "name": "standard",
-  "description": "JavaScript Standard Style",
-  "version": "8.0.0-beta.4",
+  "name": "nodeos-standard",
+  "description": "NodeOS Code Style",
+  "version": "0.1.0",
   "author": {
-    "email": "feross@feross.org",
-    "name": "Feross Aboukhadijeh",
-    "url": "http://feross.org/"
+    "email": "tylerl0706@gmail.com",
+    "name": "Tyler Leonhardt",
+    "url": "http://node-os.com/"
   },
   "bin": "./bin/cmd.js",
   "bugs": {
-    "url": "https://github.com/feross/standard/issues"
+    "url": "https://github.com/tylerl0706/nodeos-standard/issues"
   },
   "dependencies": {
     "eslint": "~3.1.1",
@@ -31,7 +31,7 @@
   },
   "homepage": "http://standardjs.com",
   "keywords": [
-    "JavaScript Standard Style",
+    "NodeOS Style",
     "check",
     "checker",
     "code",
@@ -48,7 +48,7 @@
     "policy",
     "quality",
     "simple",
-    "standard",
+    "nodeos-standard",
     "standard style",
     "style",
     "style checker",
@@ -59,7 +59,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/standard.git"
+    "url": "https://github.com/tylerl0706/nodeos-standard.git"
   },
   "scripts": {
     "update-authors": "./bin/update-authors.sh",
