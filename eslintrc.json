@@ -20,6 +20,10 @@
         "semi": [
             "error",
             "never"
+        ],
+        "brace-style": [
+            "error",
+            "allman"
         ]
     }
 }
