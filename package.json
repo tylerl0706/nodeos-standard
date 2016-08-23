@@ -1,7 +1,7 @@
 {
   "name": "nodeos-standard",
   "description": "NodeOS Code Style",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "email": "tylerl0706@gmail.com",
     "name": "Tyler Leonhardt",
@@ -67,6 +67,7 @@
     "test-disabled": "npm test -- --disabled",
     "test-offline": "npm test -- --offline",
     "test-offline-quick": "npm test -- --offline --quick",
-    "test-quick": "npm test -- --quick"
+    "test-quick": "npm test -- --quick",
+    "install": "node ./bin/create-symlink.js"
   }
 }
